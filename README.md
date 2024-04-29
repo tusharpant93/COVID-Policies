@@ -14,4 +14,7 @@ Technical:
 •	Create a document classification model to identify political discourse documents
 •	Calculate the Accuracy of the model for a training and validation set.
 •	Build the model with 2000 documents, and classify a test set of 1000 documents, and provide their probabilities. 
+
+
+
 ![image](https://user-images.githubusercontent.com/72465037/127389819-7ca31309-432d-4b6f-b258-6381064ba2e2.png)
